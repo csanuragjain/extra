@@ -6,3 +6,5 @@
 4) Jar Compresser/Decompresser <br/>
 5) Set Background in JFrame <br/>
 6) Block windows program using Java <br/>
+7) Access/Modify clipboard content <br/>
+8) Play Movie as Desktop Wallpaper <br/>
