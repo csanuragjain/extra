@@ -8,3 +8,7 @@
 6) Block windows program using Java <br/>
 7) Access/Modify clipboard content <br/>
 8) Play Movie as Desktop Wallpaper <br/>
+
+# Tricks
+
+1) Check SQL Server Connectivity easily <br/>
