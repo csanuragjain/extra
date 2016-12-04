@@ -8,6 +8,9 @@
 6) Block windows program using Java <br/>
 7) Access/Modify clipboard content <br/>
 8) Play Movie as Desktop Wallpaper <br/>
+9) Base64 to image and vice-versa <br/>
+10) Zip/Unzip file using Java <br/>
+11) Search within your images <br/>
 
 # Tricks
 
