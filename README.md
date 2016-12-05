@@ -11,6 +11,8 @@
 9) Base64 to image and vice-versa <br/>
 10) Zip/Unzip file using Java <br/>
 11) Search within your images <br/>
+12) Schedule task using Java <br/>
+
 
 # Tricks
 
