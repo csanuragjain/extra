@@ -135,7 +135,7 @@ public class EmulateKeyboard {
         }
     }
 
-    private void doType(int... keyCodes) {
+    protected void doType(int... keyCodes) {
         doTypeChar(keyCodes, 0, keyCodes.length);
     }
 
