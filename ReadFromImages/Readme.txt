@@ -4,7 +4,7 @@ You can also use the below module to check if the captcha on your site is strong
 Copy all the files and extract tessdata.zip 
 
 For more information visit:
-
+https://cooltrickshome.blogspot.in/2017/02/reading-text-from-images-using-java.html
 
 Pom Dependency:
 Please add the below pom dependency:
