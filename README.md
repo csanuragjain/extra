@@ -15,6 +15,7 @@
 13) Emulate keyboard keys using Java <br/>
 14) Mouse controller and tracker using Java <br/>
 15) Youtube metadata extractor <br/>
+16) Read from Images <br/>
 
 # Tricks
 
