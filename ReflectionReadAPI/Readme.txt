@@ -2,3 +2,4 @@ Java Reflection allows you to inspect interfaces, fields and methods from a know
 This post is for inspecting class , methods, constructors, fields from an unknown class. In the next post, I would be sharing on how you could utilize and execute those retrieved methods.
 
 For more information visit:
+http://cooltrickshome.blogspot.com/2017/02/java-reflection-reading-unknown-class.html
