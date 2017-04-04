@@ -18,6 +18,7 @@
 16) Read from Images <br/>
 17) Read metadata from an unknown class file <br/>
 18) URL encode/decode using Java <br/>
+19) Java Reflection- Accessing/Modifying private methods/fields <br/>
 
 # Tricks
 
