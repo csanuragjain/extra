@@ -19,6 +19,7 @@
 17) Read metadata from an unknown class file <br/>
 18) URL encode/decode using Java <br/>
 19) Java Reflection- Accessing/Modifying private methods/fields <br/>
+20) Convert JSON to POJO using Java <br/>
 
 # Tricks
 
