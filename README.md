@@ -20,6 +20,7 @@
 18) URL encode/decode using Java <br/>
 19) Java Reflection- Accessing/Modifying private methods/fields <br/>
 20) Convert JSON to POJO using Java <br/>
+21) Convert JSON to XML using Java <br/>
 
 # Tricks
 
