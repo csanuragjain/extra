@@ -23,6 +23,7 @@
 21) Convert JSON to XML using Java https://github.com/csanuragjain/extra/tree/master/convertJson2XML <br/>
 22) Convert Image to PDF https://github.com/csanuragjain/extra/tree/master/Image2PDF <br/>
 23) Thumbnail Generator using Java https://github.com/csanuragjain/extra/tree/master/ThumbnailGenerator <br/>
+24) Some Image Based Exploits with their Prevention https://github.com/csanuragjain/extra/tree/master/ImageExploit <br/>
 
 # Tricks
 
