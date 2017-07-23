@@ -1,7 +1,7 @@
 In this post, we will learn how to extract faces out of an image from webcam. We will make use of 2 library which are sarxos and openimaj
 
 Website:
-
+https://cooltrickshome.blogspot.com/2017/07/facial-recognition-using-java.html
 
 Pom Dependency:
  <dependency>  
