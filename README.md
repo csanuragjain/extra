@@ -24,6 +24,7 @@
 22) Convert Image to PDF https://github.com/csanuragjain/extra/tree/master/Image2PDF <br/>
 23) Thumbnail Generator using Java https://github.com/csanuragjain/extra/tree/master/ThumbnailGenerator <br/>
 24) Some Image Based Exploits with their Prevention https://github.com/csanuragjain/extra/tree/master/ImageExploit <br/>
+25) Face Recognition using Java https://github.com/csanuragjain/extra/tree/master/FaceRecognition <br/>
 
 # Tricks
 
