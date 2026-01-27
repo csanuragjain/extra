@@ -1,0 +1,10 @@
+# Project Analysis Tasks
+
+## Overview
+This repository contains tasks that need to be completed as part of the analysis.
+
+## Analysis Requirements
+1. **Report Generation**: Contain the numbers from 1-10
+
+## Deliverables Expected
+- Return the report containing number 1-10
